@@ -21,7 +21,7 @@ for ticker, stock in portfolio.items():
 print(f"Total portfolio value: ${portfolio_value():.2f}")
 
 # Update every stock once per day, then report the revised portfolio value.
-for day in range(1, 6):
+for day in range(1, 8):
 	for stock in portfolio.values():
 		daily_change = random.uniform(-0.05, 0.05)
 		stock["price"] *= 1 + daily_change

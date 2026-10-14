@@ -20,7 +20,7 @@
 
 ### 5. Stock Portfolio Tracker
 - File: exercise5_portfolio.py
-- Calculates the portfolio's value and simulates five days of stock-price changes.
+- Calculates the portfolio's value and simulates a week of stock-price changes.
 
 ### 6. Bank Loan Repayment Simulator
 - File: exercise6_loan_simulator.py
